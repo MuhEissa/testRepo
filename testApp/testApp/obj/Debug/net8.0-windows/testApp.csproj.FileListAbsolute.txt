@@ -1,0 +1,17 @@
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\bin\Debug\net8.0-windows\testApp.exe
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\bin\Debug\net8.0-windows\testApp.deps.json
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\bin\Debug\net8.0-windows\testApp.runtimeconfig.json
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\bin\Debug\net8.0-windows\testApp.dll
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\bin\Debug\net8.0-windows\testApp.pdb
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\obj\Debug\net8.0-windows\testApp.Form1.resources
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\obj\Debug\net8.0-windows\testApp.csproj.GenerateResource.cache
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\obj\Debug\net8.0-windows\testApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\obj\Debug\net8.0-windows\testApp.AssemblyInfoInputs.cache
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\obj\Debug\net8.0-windows\testApp.AssemblyInfo.cs
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\obj\Debug\net8.0-windows\testApp.csproj.CoreCompileInputs.cache
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\obj\Debug\net8.0-windows\testApp.sourcelink.json
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\obj\Debug\net8.0-windows\testApp.dll
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\obj\Debug\net8.0-windows\refint\testApp.dll
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\obj\Debug\net8.0-windows\testApp.pdb
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\obj\Debug\net8.0-windows\testApp.genruntimeconfig.cache
+C:\01-Eissa\test - Git\testRepo\testApp\testApp\obj\Debug\net8.0-windows\ref\testApp.dll
